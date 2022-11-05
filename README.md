@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Achille1994
+- 👋 Hi, I’m @Mbogol Touye Achille
 - 👀 I’m interested by AI & data applications like : object detection, object recongnition, object tracking,
  NLP translator, chatbots and recommendation Engines, healthcare
 - 🌱 I’m currently learning machine learning and deep learning. I love so much AI technologie.
